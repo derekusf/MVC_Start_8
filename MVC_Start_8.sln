@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Start_8", "MVC_Start_8\MVC_Start_8.csproj", "{A850071A-8691-4B0C-92FB-2FD1AF0F951F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripPlanner", "..\..\..\..\..\SourceCode\ISM6225\ISM6225-Project\MyOwnApp\TripPlanner\TripPlanner.csproj", "{87DA6148-A303-4FF3-8B12-73C1D2A85B72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A850071A-8691-4B0C-92FB-2FD1AF0F951F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A850071A-8691-4B0C-92FB-2FD1AF0F951F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A850071A-8691-4B0C-92FB-2FD1AF0F951F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DA6148-A303-4FF3-8B12-73C1D2A85B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DA6148-A303-4FF3-8B12-73C1D2A85B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DA6148-A303-4FF3-8B12-73C1D2A85B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DA6148-A303-4FF3-8B12-73C1D2A85B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
